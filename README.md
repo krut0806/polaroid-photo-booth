@@ -24,7 +24,7 @@ A web-based photo booth that captures real-time polaroid-style photo strips. Cho
 
  1. Clone the repo
 
-git clone https://github.com/krut0806/photo-booth.git
+git clone https://github.com/krut0806/polaroid-photo-booth.git
 cd photo-booth
 
 2. Create and activate a virtual environment
